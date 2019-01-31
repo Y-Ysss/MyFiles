@@ -29,6 +29,7 @@ To fix it, go to your Tor Browser directory, where "firefox.exe" is placed. Ther
 
 ### Customize
 Tile icon : [Firefox] -> [Original icon]
+
 **Files**
 - ManifestFile : ` TorBrowser\Browser\firefox.VisualElementsManifest.xml ` 
 - icon-1 : ` TorBrowser\Browser\browser\VisualElements\FoxTorBrowser-350.png `
